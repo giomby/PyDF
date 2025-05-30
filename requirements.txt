@@ -1,0 +1,6 @@
+PyPDF2
+fpdf
+pillow
+googletrans==4.0.0-rc1
+reportlab
+pdf2image
